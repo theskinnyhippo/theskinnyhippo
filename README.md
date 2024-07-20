@@ -17,8 +17,9 @@ Here are some ideas to get you started:
   <img alt="Wasting time" align="center" src="https://68.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif" />
 </div>
 
-<h1 align="center">Hi 👋, This is Mandir</h1>
-<h3 align="center">A passionate programmer and designer from India</h3>
+<h1 align="center">Hi there
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"/>, this is Mandir</h1>
+<h3 align="center">a programmer-designer from India</h3>
 
 <!--
 <p align="left"> 
