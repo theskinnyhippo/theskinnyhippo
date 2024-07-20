@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **mandirhapal1996@gmail.com**
 - ⚡ **Melody khao Khud jan jao**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/skinny_hippo7" target="blank">
@@ -47,7 +48,7 @@ Here are some ideas to get you started:
   <img src="seperator.gif" width=2020px>
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
@@ -101,6 +102,6 @@ Here are some ideas to get you started:
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=theskinnyhippo&show_icons=true&locale=en&bg_color=000000&text_color=ffffff" alt="theskinnyhippo" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=theskinnyhippo&show_icons=true&locale=en&bg_color=000000&text_color=ffffff" alt="theskinnyhippo" />
 </p>
 
