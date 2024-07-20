@@ -42,8 +42,9 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<hr style="border: none; border-top: 3px double #8c8b8b; color: #8c8b8b; height: 3px; text-align: center;">
-<hr style="border: none; height: 4px; background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);">
+<div>
+  <img src="seperator.gif" width=2020px>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
