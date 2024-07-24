@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </p>
 
 <div>
-  <img src="seperator.gif" width=2020px>
+  <img src="sep.gif" width=2020px>
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
