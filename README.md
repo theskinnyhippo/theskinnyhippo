@@ -21,6 +21,12 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"/>, this is Mandir</h1>
 <h3 align="center">a programmer-designer from India</h3>
 
+<p align="center">
+  currently studying in 3rd year of B.E.(IT) in Jadavpur University
+</p><p align="center">
+  Interests : Graphics Designing, Web designing and dev, data analysis.. and still exploring!!!
+</p>
+
 <!--
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=theskinnyhippo&label=Profile%20views&color=0e75b6&style=flat" alt="theskinnyhippo" /> 
