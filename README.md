@@ -76,8 +76,9 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://spline.design/" target="_blank" rel="noreferrer">
-    <img src="https://www.spline.design/_next/static/media/logo.f0d9e3e6.svg" alt="spline" width="40" height="40"/>
-  </a>
+   <img src="https://raw.githubusercontent.com/theskinnyhippo/theskinnyhippo/main/Untitled_undefinedx.png" alt="spline" width="35" height="35"/>
+</a>
+
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
@@ -97,6 +98,7 @@ Here are some ideas to get you started:
 <p>&nbsp;
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=theskinnyhippo&show_icons=true&locale=en&bg_color=000000&text_color=ffffff" alt="theskinnyhippo" />
 </p>
+
 
 <div>
   <img src="sep.gif" width=2020px>
