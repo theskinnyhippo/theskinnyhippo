@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 <h3 align="center">a programmer-designer from India</h3>
 
 <p align="center">
-  currently studying in 3rd year of B.E.(IT) in Jadavpur University
+  currently studying in 4th year of B.E.(IT) in Jadavpur University
 </p><p align="center">
-  Interests : Graphics Designing, Web designing and dev, data analysis.. and still exploring!!!
+  Interests : Graphics Designing, Web designing, web dev, data analysis.. and AI stuff!!!
 </p>
 
 <!--
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=theskinnyhippo&label=Profile%20views&color=0e75b6&style=flat" alt="theskinnyhippo" /> 
 </p>-->
 
-- 🌱 I’m currently learning **web2 technologies**
+- 🌱 I’m currently learning **GUI based automations**
 - 📫 How to reach me **mandirhapal1996@gmail.com**
 - ⚡ **Melody khao Khud jan jao**
 
@@ -90,7 +90,13 @@ Here are some ideas to get you started:
   <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="shadcn/ui" width="40" height="40"/>
   </a>
-  
+  <a href="https://n8n.io/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" alt="n8n" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+
 
 
 
