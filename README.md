@@ -85,7 +85,7 @@ Here are some ideas to get you started:
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV9uzErWz9EXqZDxZ5lP9aYpMz8eK6rr5X3w&s" alt="nextjs" width="40" height="40"/>
   </a>
   <a href="https://threejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/>
+    <img src="https://canada1.discourse-cdn.com/flex035/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_1016x1024.png" alt="threejs" width="40" height="40"/>
   </a>
   <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="shadcn/ui" width="40" height="40"/>
