@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=theskinnyhippo&label=Profile%20views&color=0e75b6&style=flat" alt="theskinnyhippo" /> 
 </p>-->
 
-- 🌱 I’m currently learning **GUI based automations**
+- 🌱 I’m currently learning **automation tech**
 - 📫 How to reach me **mandirhapal1996@gmail.com**
 - ⚡ **Melody khao Khud jan jao**
 
